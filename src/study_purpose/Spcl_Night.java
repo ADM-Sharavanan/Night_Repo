@@ -6,6 +6,7 @@ public class Spcl_Night {
 		// TODO Auto-generated method stub
 		
 		System.out.println("GN");
+		System.out.println("spl night");
 
 	}
 
